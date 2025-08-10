@@ -32,3 +32,7 @@ The app is configured as a Farcaster miniapp with:
 ## 🏆 Hackathon Submission
 
 Built for the Base hackathon to showcase seamless integration between Farcaster Frames and Base network, enabling users to interact with on-chain features directly within their social feed.
+
+## ⚠️ Important Note
+
+This repository contains the key MiniApp implementation for the Farcaster/Base integration. The backend infrastructure of the Flyte AI project remains private due to sensitive information and NDA agreements with our aggregator partners.
