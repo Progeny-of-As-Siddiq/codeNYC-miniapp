@@ -1,0 +1,27 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjExMTUwNzIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgzZjA3QjczMjg1NWE2MUJCQzBhOGFmNzNCY2FGZGU4YzY1RjQ4NDVmIn0",
+    "payload": "eyJkb21haW4iOiJ3d3cuZmx5dGVhaS5pbyJ9",
+    "signature": "MHhhYjYxNGUyODQyOTY3ZWM1N2RkMTVhNTY1MDFkZDM2M2FmMjgwNjEzOWQyZDFhZDY3NjFiMGYwZDU4NWM3YjkwMDEwNmQxOWQ1NjJlMDU3MGJmYjUwMmUxYzRkOTk0ZjZkOWNlMzBjNmUzNzk4NGNjMjFiZWY2MGViYWFhNjE2OTFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "Flyte AI",
+    "subtitle": "Book flights with crypto",
+    "description": "Book flights with crypto, instantly. Powered by AI.",
+    "iconUrl": "https://www.flyteai.io/FlyteAILogo.png",
+    "imageUrl": "https://www.flyteai.io/FlyteAILogo.png",
+    "splashImageUrl": "https://www.flyteai.io/FlyteAILogo.png",
+    "splashBackgroundColor": "#000000",
+    "homeUrl": "https://www.flyteai.io",
+    "primaryCategory": "finance",
+    "tags": ["flights", "crypto", "payments"],
+    "screenshotUrls": [],
+    "heroImageUrl": "https://www.flyteai.io/FlyteAILogo.png",
+    "tagline": "Book flights with crypto",
+    "ogTitle": "Flyte AI",
+    "ogDescription": "Book flights with crypto, instantly.",
+    "ogImageUrl": "https://www.flyteai.io/FlyteAILogo.png"
+  }
+}
+
